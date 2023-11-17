@@ -1,0 +1,322 @@
+repo_name: tony199555/oneSubscribe
+report_id: 31a31c67a757c5e57c133074a101f784
+repo_type: Public
+timestamp: '2023-11-17T04:05:08+00:00'
+requested_by: pengchujin
+provider: github
+branch: master
+detected_tools_count: 21
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 9.6.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: Dockerfile
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-11-29 15:43:54.000000000 Z
+- name: TypeORM
+  description: An ORM that can run in NodeJS and others
+  website_url: https://typeorm.io/
+  version: 0.2.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7419/20165699.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: GraphQL Playground
+  description: "\U0001F3AE GraphQL IDE for better development workflows (GraphQL Subscriptions,
+    interactive docs &amp; collaboration)"
+  website_url: https://github.com/prisma/graphql-playground
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/9999/20a2b8d1-99a7-499c-bb60-bba9ea75f23c.jpeg
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: Ramda
+  description: A practical functional library for JavaScript programmers
+  website_url: https://ramdajs.com/
+  version: 0.25.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3076/Ramda-01.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-11-20 15:07:32.000000000 Z
+- name: bcrypt
+  description: A bcrypt library for NodeJS
+  package_url: https://www.npmjs.com/bcrypt
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16526/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-28 17:16:44.000000000 Z
+  vulnerabilities:
+  - name: Integer Overflow or Wraparound and Use of a Broken or Risky Cryptographic
+      Algorithm in bcrypt
+    cve_id: CVE-2020-7689
+    cve_url: https://github.com/advisories/GHSA-5wg4-74h6-q47v
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 5.0.0
+- name: js-md5
+  description: A simple MD5 hash function for JavaScript supports UTF-8 encoding
+  package_url: https://www.npmjs.com/js-md5
+  version: 0.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18203/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-11-04 09:48:40.000000000 Z
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 3.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2019-02-24 15:41:53.000000000 Z
+  vulnerabilities:
+  - name: Code Injection in js-yaml
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8j8c-7jfh-h6hx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.13.1
+  - name: Denial of Service in js-yaml
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-2pr6-76vf-7546
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.13.0
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2019-02-24 15:41:53.000000000 Z
+  vulnerabilities:
+  - name: jsonwebtoken has insecure input validation in jwt.verify function
+    cve_id: CVE-2022-23529
+    cve_url: https://github.com/advisories/GHSA-27h2-hvpr-p74q
+    detected_date: Dec 22
+    severity: high
+    first_patched: 9.0.0
+  - name: 'jsonwebtoken unrestricted key type could lead to legacy keys usage '
+    cve_id: CVE-2022-23539
+    cve_url: https://github.com/advisories/GHSA-8cf7-32gw-wr33
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken vulnerable to signature validation bypass due to insecure default
+      algorithm in jwt.verify()
+    cve_id: CVE-2022-23540
+    cve_url: https://github.com/advisories/GHSA-qwph-4952-7xr6
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken's insecure implementation of key retrieval function could lead
+      to Forgeable Public/Private Tokens from RSA to HMAC
+    cve_id: CVE-2022-23541
+    cve_url: https://github.com/advisories/GHSA-hjrf-2m68-5959
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+- name: koa-mount
+  description: Mounting middleware for koa
+  package_url: https://www.npmjs.com/koa-mount
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17608/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-11-20 15:07:32.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-27 17:24:53.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: pengchujin
+  last_updated_on: 2018-10-28 17:16:44.000000000 Z
