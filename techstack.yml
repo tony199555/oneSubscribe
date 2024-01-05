@@ -1,7 +1,8 @@
 repo_name: tony199555/oneSubscribe
 report_id: 31a31c67a757c5e57c133074a101f784
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-17T04:05:08+00:00'
+timestamp: '2024-01-05T08:37:39+00:00'
 requested_by: pengchujin
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/tony199555/oneSubscribe
   detection_source: Repo Metadata
 - name: Koa
   description: Next generation web framework for node.js
@@ -39,7 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1726/5055057.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -53,8 +56,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source_url: Dockerfile
-  detection_source: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/Dockerfile
+  detection_source: Dockerfile
   last_updated_by: pengchujin
   last_updated_on: 2018-11-29 15:43:54.000000000 Z
 - name: TypeORM
@@ -67,7 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/7419/20165699.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -79,6 +82,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -92,6 +96,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/9999/20a2b8d1-99a7-499c-bb60-bba9ea75f23c.jpeg
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -103,6 +108,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -115,6 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/tony199555/oneSubscribe
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -124,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tony199555/oneSubscribe
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -133,6 +141,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -146,7 +155,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3076/Ramda-01.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -159,6 +168,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/tony199555/oneSubscribe
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -170,7 +180,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-11-20 15:07:32.000000000 Z
@@ -184,7 +194,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16526/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-28 17:16:44.000000000 Z
@@ -206,7 +216,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18203/default_329699d382cad74e0d389300999bd267b9699d3f.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-11-04 09:48:40.000000000 Z
@@ -220,7 +230,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2019-02-24 15:41:53.000000000 Z
@@ -247,7 +257,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2019-02-24 15:41:53.000000000 Z
@@ -288,7 +298,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17608/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-11-20 15:07:32.000000000 Z
@@ -302,7 +312,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-27 17:24:53.000000000 Z
@@ -316,7 +326,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/tony199555/oneSubscribe/blob/master/package.json
   detection_source: package.json
   last_updated_by: pengchujin
   last_updated_on: 2018-10-28 17:16:44.000000000 Z
